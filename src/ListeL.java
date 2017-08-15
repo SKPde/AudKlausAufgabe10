@@ -54,7 +54,7 @@ public class ListeL {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ListeL liste = new ListeL();
-		liste.einfuegen(17);
+		liste.einfuegen(2010);
 		liste.einfuegen(18);
 		liste.einfuegen(8);
 		liste.einfuegen(2000);
